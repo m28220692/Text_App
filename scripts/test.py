@@ -1,2 +1,4 @@
 # -*- coding: UTF-8 -*-
-1111
+class TestA():
+    def test001(self):
+        assert 1
